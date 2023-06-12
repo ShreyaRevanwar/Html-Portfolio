@@ -1,2 +1,2 @@
 # Html-Portfolio
-Just started the new journey of Web Development and reached the first station that is HTML
+Started the new journey of Web Development few days ago and reached the first station that is HTML
